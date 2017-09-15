@@ -1,4 +1,4 @@
-#Hiking
+# Hiking
 
 * Booth Falls Trail (3.9 miles)
 
