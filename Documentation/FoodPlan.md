@@ -11,6 +11,10 @@ Do we want fruit?
 
 ##  Day One - Vail Eating Options
 
+* The Little Diner $
+  * Breakfast classics from morning to afternoon, plus hearty lunches in snug digs with counter dining.
+
+
 * Vendetta's Restaurant  $$
   * Pizza & other Italian dishes are provided at this longstanding cafe with a bar & outdoor seating.
 * Bully Ranch Restaurant  $$
