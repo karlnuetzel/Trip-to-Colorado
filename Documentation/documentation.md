@@ -4,6 +4,7 @@
 ---
 
 ### Lodging: Evergreen Lodge at Vail
+![alt text](https://exp.cdn-hotels.com/hotels/1000000/10000/300/266/bb01a88a_z.jpg)
 #### Days of Stay:
 12/17-12/21
 #### Total Cost:
