@@ -30,3 +30,11 @@ Normal stuff
 Qdoba
 Subway
 Wendys
+
+
+#### So say Breakfast lunch and dinner are $8 each on average. Just wendys and mcds for everything...
+
+5 days total? $24 budget for each of us for each day
+24 * 5 = $120 for each of us for each day
+$120 * 5 = $600 minimum survivable food budget probably 
+
