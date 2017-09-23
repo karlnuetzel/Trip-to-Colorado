@@ -6,6 +6,6 @@
 ![alt text](https://cdn-assets.alltrails.com/static-map/production/at-map/13276759/trail-us-colorado-shrine-ridge-trail-at-map-13276759-1504451421-1200x630-3-6.jpg)
 
 
-# Colorado Ski & Snowboard Museum and hall of Fame(Day 2)
+# Colorado Ski & Snowboard Museum and hall of Fame (Day 2)
 
 ![alt text](http://denverlifemagazine.com/wp-content/uploads/2016/08/co-si-snowboard-museum.jpg)
