@@ -12,7 +12,7 @@
 
 ### Day 2 12/18
 * Breakfast at [The Little Diner](https://foursquare.com/thelittlediner/menu)
-* Ski all day with a break for lunch at Qdoba
+* Ski all day with a break for lunch at Qdoba. Route from Hotel to Ski Resort Markdown [here](https://github.com/karlnuetzel/Trip-to-Colorado/blob/master/Documentation/routeToSki.png)
 * Ski Info Markdown: [Ski Information Documenation](https://github.com/karlnuetzel/Trip-to-Colorado/blob/master/Documentation/SkiInformation.md)
 * Well deserved dinner at [La Tour Restaurant and bar](https://latour-vail.com/)
 
