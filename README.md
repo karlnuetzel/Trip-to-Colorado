@@ -3,15 +3,15 @@
 ## Full Budget: https://github.com/karlnuetzel/Trip-to-Colorado/blob/master/Documentation/BudgetOverall.md
 
 ### Day 1 9/17
-* Leave at 6 with car, people, and snacks. See gas budget: https://github.com/karlnuetzel/Trip-to-Colorado/blob/master/Documentation/GasBudget.md
-* 12.5 hour drive with short allocations for fast food breakfast and lunch.Route: https://github.com/karlnuetzel/Trip-to-Colorado/blob/master/Documentation/route.PNG
+* Leave at 6 with car, people, and snacks. See gas budget [here](https://github.com/karlnuetzel/Trip-to-Colorado/blob/master/Documentation/GasBudget.md)
+* 12.5 hour drive with short allocations for fast food breakfast and lunch. Route [here](https://github.com/karlnuetzel/Trip-to-Colorado/blob/master/Documentation/route.PNG)
 * Arrive in Vail around 7pm, check into hotel, go eat at [Vendetta's Restaurant](http://vendettasvail.com/).
 * Sleep.
 
 ### Day 2 9/18
-* Breakfast at The Little Diner
+* Breakfast at [The Little Diner](https://foursquare.com/thelittlediner/menu)
 * Ski all day with a break for lunch at Qdoba
-* Ski Info: https://github.com/karlnuetzel/Trip-to-Colorado/blob/master/Documentation/SkiInformation.md
+* Ski Info: [Ski Information Documenation](https://github.com/karlnuetzel/Trip-to-Colorado/blob/master/Documentation/SkiInformation.md)
 * Well deserved dinner at La Tour Restaurant and bar
 
 ### Day 3 9/19
