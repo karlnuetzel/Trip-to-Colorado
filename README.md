@@ -1,6 +1,6 @@
 # Trip-to-Colorado
 # Full itinerary
-## Full Budget: https://github.com/karlnuetzel/Trip-to-Colorado/blob/master/Documentation/BudgetOverall.md
+## [Full Budget](https://github.com/karlnuetzel/Trip-to-Colorado/blob/master/Documentation/BudgetOverall.md)
 
 ### Day 1 12/17
 * Leave at 6 with car, people, and snacks. See gas budget [here](https://github.com/karlnuetzel/Trip-to-Colorado/blob/master/Documentation/GasBudget.md)
