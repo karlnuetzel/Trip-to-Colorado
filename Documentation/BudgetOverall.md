@@ -5,7 +5,7 @@
 * Gas: $315.56
 * Lift Passes: $1395
 * Rental Equipment: $569
-* Hotel 5(?) night stay: $1500
+* Hotel 4 night stay: $1500
 
 ## Total: ~$4379 minimum
 ## This leaves us about twice as much money as I thought for food 
