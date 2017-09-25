@@ -5,7 +5,7 @@
 ### Day 1 9/17
 * Leave at 6 with car, people, and snacks. See gas budget: https://github.com/karlnuetzel/Trip-to-Colorado/blob/master/Documentation/GasBudget.md
 * 12.5 hour drive with short allocations for fast food breakfast and lunch.Route: https://github.com/karlnuetzel/Trip-to-Colorado/blob/master/Documentation/route.PNG
-* Arrive in Vail around 7pm, check into hotel, go eat at Vendetta's Restaurant.
+* Arrive in Vail around 7pm, check into hotel, go eat at [Vendetta's Restaurant]: http://vendettasvail.com/.
 * Sleep.
 
 ### Day 2 9/18
