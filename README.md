@@ -1,11 +1,12 @@
 # Trip-to-Colorado
+![alt text](https://www.middlecreekvillage.com/wp-content/uploads/2013/12/12-vail-village-banner.jpg)
 # Full itinerary
 ## [Full Budget Markdown](https://github.com/karlnuetzel/Trip-to-Colorado/blob/master/Documentation/BudgetOverall.md)
 
 ### Day 1 12/17
 * Leave at 6 with car, people, and snacks. See gas budget markdown [here](https://github.com/karlnuetzel/Trip-to-Colorado/blob/master/Documentation/GasBudget.md)
 * Directions to [Evergreen Lodge](https://www.google.com/maps/dir/Columbia,+MO/Evergreen+Lodge+at+Vail,+South+Frontage+Road+West,+Vail,+CO/@39.9072738,-103.8541418,6z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x87dcabf3bb8182c9:0xa011692dbabd6f20!2m2!1d-92.3340724!2d38.9517053!1m5!1m1!1s0x876a7067d18223ef:0x477f84aaadf3cbbd!2m2!1d-106.382422!2d39.6440306)
-* 12.5 hour drive with short allocations for fast food breakfast and lunch. Route Markdown [here](https://github.com/karlnuetzel/Trip-to-Colorado/blob/master/Documentation/route.PNG)
+* 12.5 hour drive with short allocations for fast food breakfast and lunch
 * Arrive in Vail around 7pm, check into hotel, go eat at [Vendetta's Restaurant](http://vendettasvail.com/).
 * Sleep.
 
